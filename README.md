@@ -14,6 +14,6 @@ https://
 ### Clone the project to your local directory
 
 ```
-git clone https://github.com/created-by-varun/
+git clone https://github.com/created-by-varun/Travel-Landing-Page.git
 ```
 
